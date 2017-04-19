@@ -79,5 +79,3 @@ eclipse.classpath.file {
       }
     }
 }
-
-//TODO 实现logback.xml和logback-test.xml共存，打包时自动忽略logback-test.xml
